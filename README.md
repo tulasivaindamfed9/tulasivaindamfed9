@@ -4,6 +4,6 @@
 
 👀 My Tech stack includes
 
-Typescript, nextJS, JavaScript (ES6+), ReactJS, Redux Toolkit, REST APIs, Axios and Tailwindcss
+JavaScript (ES6+), ReactJS, Redux Toolkit, REST APIs, Axios and Tailwindcss, Typescript, nextJS, Python
 
-📫 Reach me at : tulasivaindam12@gmail.com
+📫 Reach me at : tulasivaindamfed9@gmail.com
